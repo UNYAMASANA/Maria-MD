@@ -2,21 +2,21 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
+global.ownernumber = ['255622615137']
+global.ownername = "♜𝙼𝙾𝙰𝙻𝙻𝚈 -𝙼𝙳♜"//owner name
+global.ytname = "YT: ♜𝙼𝙾𝙰𝙻𝙻𝚈 -𝙼𝙳♜.inc"
+global.socialm = "GitHub: ♜𝙼𝙾𝙰𝙻𝙻𝚈 -𝙼𝙳♜"
 global.location = "Indian"
 
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = '♜𝙼𝙾𝙰𝙻𝙻𝚈 -𝙼𝙳♜' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '♜𝙼𝙾𝙰𝙻𝙻𝚈 -𝙼𝙳♜'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = '♜𝙼𝙾𝙰𝙻𝙻𝚈 -𝙼𝙳♜'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "♜𝙼𝙾𝙰𝙻𝙻𝚈 -𝙼𝙳♜."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
